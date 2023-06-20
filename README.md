@@ -9,7 +9,7 @@ Developed by Omar Bayomie
 
 
 # Installation
-pip install + git+https://github.com/itvizion/seeq-itvizion-visualization-addons.git '''
+pip install + git+https://github.com/itvizion/seeq-itvizion-visualization.git '''
 The backend of **ITV-visual** requires **Python 3.7** or later.
 
 ## Dependencies
