@@ -7,7 +7,6 @@ in Seeq Workbench.
 
 Developed by Omar Bayomie
 
-https://github.com/itvizion/seeq-itvizion-visualization-docs/blob/main/docs/_static/Introduction.mp4
 
 # Installation
 pip install + git+https://github.com/itvizion/seeq-itvizion-visualization.git '''
