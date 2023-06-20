@@ -8,6 +8,9 @@ in Seeq Workbench.
 Developed by Omar Bayomie
 
 
+https://github.com/itvizion/seeq-itvizion-visualization-docs/assets/56736042/5e32e721-c001-45a9-b655-bd1a1b8e341b
+
+
 # Installation
 pip install + git+https://github.com/itvizion/seeq-itvizion-visualization.git '''
 The backend of **ITV-visual** requires **Python 3.7** or later.
