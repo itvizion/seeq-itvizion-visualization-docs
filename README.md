@@ -162,6 +162,8 @@ https://user-images.githubusercontent.com/56736042/234639163-6017df5d-332d-44bb-
 
 # Documentation
 
+https://github.com/itvizion/seeq-itvizion-visualization-docs/assets/56736042/5e32e721-c001-45a9-b655-bd1a1b8e341b
+
 ### Violin Plot
 
 
