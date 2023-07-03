@@ -8,7 +8,8 @@ in Seeq Workbench.
 Developed by Omar Bayomie
 
 
-https://github.com/itvizion/seeq-itvizion-visualization-docs/assets/56736042/5e32e721-c001-45a9-b655-bd1a1b8e341b
+https://github.com/itvizion/seeq-itvizion-visualization-docs/assets/56736042/f7205188-56ff-4cae-9931-b12f58b8e2a2
+
 
 
 # Installation
